@@ -1,4 +1,5 @@
 server:
   port: 8085
-external:
-  property: Hello ANAS
+  servlet:
+  context-path: /api
+
