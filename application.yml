@@ -2,5 +2,5 @@
 jwt:
   accessTokenSecretKey: ISFvdWFlbGFuYXNzISExMjM0NTY3ODk=
   refreshTokenSecretKey: ISFvdWFlbGFuYXNzISExMjM0NTY3ODkxMjM0NTY=
-  accessTokenValidityInMilliseconds: 36000
+  accessTokenValidityInMilliseconds: 3600000
   refreshTokenValidityInMilliseconds: 2592000000
