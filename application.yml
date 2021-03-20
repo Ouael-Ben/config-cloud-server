@@ -1,2 +1,6 @@
+#secrets for jwt
 jwt:
-  accessTokenSecretKey: 123456789cr
+  accessTokenSecretKey: ISFvdWFlbGFuYXNzISExMjM0NTY3ODk=
+  refreshTokenSecretKey: ISFvdWFlbGFuYXNzISExMjM0NTY3ODkxMjM0NTY=
+  accessTokenValidityInMilliseconds: 36000
+  refreshTokenValidityInMilliseconds: 2592000000
